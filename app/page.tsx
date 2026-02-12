@@ -49,7 +49,7 @@ export default function Page() {
         </div>
 
         {/* Status Card */}
-        <div className="grid md:grid-cols-5 gap-8 bg-ccw-white/5 backdrop-blur-3xl rounded-[2.5rem] border border-ccw-white/10 p-4 md:p-12 shadow-2xl animate-in fade-in zoom-in-95 duration-1000 delay-300">
+        <div className="grid md:grid-cols-5 gap-8 bg-ccw-white/5 backdrop-blur-3xl rounded-[2.5rem] border border-ccw-white/10 p-4 px-2 md:p-12 shadow-2xl animate-in fade-in zoom-in-95 duration-1000 delay-300">
           
           <div className="md:col-span-3 space-y-8">
             <div className="space-y-4">
