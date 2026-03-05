@@ -100,16 +100,12 @@ export default function Page() {
             </div>
 
             <div className="space-y-4 pt-4">
-              <Link href="mailto:centralc@iway.na" className="w-full flex flex-col bg-ccw-yellow hover:bg-ccw-yellow/90 text-ccw-black font-black py-4 rounded-2xl transition-all duration-300 transform hover:scale-[1.02] flex items-center justify-center gap-2 text-sm uppercase tracking-widest">
+              <Link href="mailto:info@ccw.com.na" className="w-full flex flex-col bg-ccw-yellow hover:bg-ccw-yellow/90 text-ccw-black font-black py-4 rounded-2xl transition-all duration-300 transform hover:scale-[1.02] flex items-center justify-center gap-2 text-sm uppercase tracking-widest">
                 <Mail size={18} />
                 Get in Touch
-                <span className="text-xs text-muted-foreground">centralc@iway.na</span>
+                <span className="text-xs text-muted-foreground">info@ccw.com.na</span>
               </Link>
-               <Link href="mailto:centralc1@iway.na" className="w-full flex flex-col bg-ccw-yellow hover:bg-ccw-yellow/90 text-ccw-black font-black py-4 rounded-2xl transition-all duration-300 transform hover:scale-[1.02] flex items-center justify-center gap-2 text-sm uppercase tracking-widest">
-                <Mail size={18} />
-                Get in Touch
-                <span className="text-xs text-muted-foreground">centralc1@iway.na</span>
-              </Link>
+               
               
             </div>
           </div>
