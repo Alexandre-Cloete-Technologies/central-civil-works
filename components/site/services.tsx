@@ -10,7 +10,7 @@ const ITEMS: { Icon: LucideIcon; title: string; body: string }[] = [
   {
     Icon: Building2,
     title: "Construction",
-    body: "General construction and site development delivered with the same safety-first discipline as our civil work.",
+    body: "Construction and site development delivered with the same safety-first discipline as our civil work.",
   },
   {
     Icon: Cable,
