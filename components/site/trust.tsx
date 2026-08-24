@@ -12,6 +12,7 @@ export function Trust() {
           <div className="trust-row">
             <span className="trust-name">OTT Accredited</span>
             <span className="trust-name">FOCE Certified</span>
+            <span className="trust-name">MEGAnet Certified</span>
           </div>
         </div>
         <div className="trust-group">
@@ -19,6 +20,7 @@ export function Trust() {
           <div className="trust-row">
             <span className="trust-name">Ruckus</span>
             <span className="trust-name">HPE Aruba</span>
+            <span className="trust-name">MEGAnet</span>
           </div>
         </div>
       </div>

@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="footer dark">
       <div className="footer-grid">
         <div className="footer-brand">
-          <Image src="/logo/CCW-logo-white.png" alt="Central Civil Works" width={128} height={32} style={{ height: 32, width: "auto" }} />
+          <Image src="/logo/CCW-logo-colour-tight.png" alt="Central Civil Works" width={3074} height={2754} style={{ height: 44, width: "auto" }} />
           <p>
             100% Namibian-owned civil engineering, construction and fibre-optic contractor, serving clients from
             Swakopmund and Windhoek since 2016.

@@ -1,7 +1,6 @@
 const TAGS = [
   "Trenching & Ducting",
   "Tower Foundations",
-  "General Construction",
   "Fibre Splicing",
   "OTDR Testing",
   "FTTx / FTTH Rollout",
@@ -10,6 +9,11 @@ const TAGS = [
   "Point-to-Multipoint Links",
   "Data & Voice Circuits",
   "Switching & Network Hardware",
+  "Rigging",
+  "Structured Cabling",
+  "CCTV",
+  "Biometrics",
+  "Network Architecture",
 ];
 
 export function Catalogue() {
